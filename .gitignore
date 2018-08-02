@@ -1,0 +1,9 @@
+?Icon
+Icon
+Icon\r
+"Icon\r"
+.DS_Store
+
+# Ignore model/ and paperrank-data/ (they are too big to fit on GitHub)
+model/
+paperrank-data/
